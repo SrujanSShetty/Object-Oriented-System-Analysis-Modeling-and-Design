@@ -1,4 +1,4 @@
-# -Fall-2023-Object-Oriented-System-Analysis-Modeling-and-Design-ITMT-531-02-
+Object-Oriented-System-Analysis-Modeling-and-Design
 
 Phase #1
 Background and Scenario
