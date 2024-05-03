@@ -1,6 +1,6 @@
 # -Fall-2023-Object-Oriented-System-Analysis-Modeling-and-Design-ITMT-531-02-
 
-Assignment #1
+Phase #1
 Background and Scenario
 -As an independent music composer, Daniel Schwartz wants to exploit “GenAI
 capabilities” to increase his productivity in compositions. Given the context of
@@ -30,7 +30,7 @@ applications available
 - Conclusions (your summary and reflections on this assignment)
 
 
-**Assignment #2 **
+**Phase #2 **
 Develop "Product Canvas" based/extending on  Assignment#1
 (You may need to go through few iterations by yourself. You may not get it right in your first attempt. Please don’t get disappointed. Keep trying and iterate for a few times. Submit your final version only)
 Few Thoughts to explore to fine tune your idea.
@@ -44,7 +44,7 @@ Product Canvas
 What are the key challenges that you faced in developing Product Canvas
 
 **
-Assignment #3**
+Phase #3**
 Guidance
 Expand from Assignment #2 and identify what data sources are needed to build your solution/application
 Identify which of the Data Sources are created vs acquired for your problem statement (ex. in next slide)
@@ -54,7 +54,7 @@ Data Sourcing Strategy  - extension to your Assignment 2
 Challenges faced while developing data sourcing strategy
 
 
-**Assignment #4 **
+**Phase #4 **
 Problem Statement
 Develop ER diagrams for Developing the Artist Experience App 
 Assume Dan (or artist) is interacting with the app to exploit genAI features in their composition process
@@ -71,7 +71,7 @@ Use, just the entity box (without any attributes in the subsequent slides for si
 Process specific (or subject area specific)
 
 
-**Assignment #5 **
+**Final Phase **
 Attached Files:
 File Marketing Science - Analytics.xlsx (13.615 KB)
 Develop analytical questions that lead to addressing end state from product canvas (assignment #2 review)
